@@ -11,7 +11,7 @@
   <li>List movie on the basis of ratings</li>
   </ol>
   </br>
-  h3>Url and descriptions</h3></br></hr>
+  <h3>Url and descriptions</h3></br></hr>
   <ol>
   <li>/user/register/ - Allow you to register</li>
   <li>/user/login/ - allow you to login</li>
