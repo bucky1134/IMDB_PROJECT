@@ -2,7 +2,7 @@
 
 <H3>This is just for testing purposes for CI/CD implementation of django project and deploying it on heroku server..</h3><br>
 <h4>Implemented the Imdb like application for movie reviews and information using django restframework</h4></r>
-<h3>API functioning</h3></br></hr>
+<h3>API functioning</h3></br><hr>
 <ol>
   <li>Search for movie </li>
   <li>all movie listing</li>
@@ -11,7 +11,7 @@
   <li>List movie on the basis of ratings</li>
   </ol>
   </br>
-  <h3>Url and descriptions</h3></br></hr>
+  <h3>Url and descriptions</h3></br><hr>
   <ol>
   <li>/user/register/ - Allow you to register</li>
   <li>/user/login/ - allow you to login</li>
