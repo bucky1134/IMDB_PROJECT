@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-%4c$wd$6n^rm^du77-+u5)x6!p%g%5^a+)4j@ydo+*)f=#tqzr
 DEBUG = False
 
 #allowing everyone to access this applications
-ALLOWED_HOSTS = ['*','imdbserver.herokuapp.com']
+ALLOWED_HOSTS = ['imdbserver.herokuapp.com']
 
 
 # Application definition
