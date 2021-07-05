@@ -17,7 +17,7 @@
   <li>/user/login/ - allow you to login</li>
   <li>/api/movies - lisiting all movies </li>
   <li>/api/movies/create - create a movie</li>
-  <li>/api/movies/genre - add genre to a existing movie</li>
+  <li>/api/movies/addgenre - add genre to a existing movie</li>
    <li>/api/movies/pk - list movie details for a particular movie</li>
   <li>/api/movies/delete/pk - delete a particular movie</li>
   <li>/api/movies/update/pk - update details for a particular movie</li>
