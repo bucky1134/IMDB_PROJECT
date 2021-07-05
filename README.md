@@ -4,5 +4,5 @@
 <h4>Implemented the Imdb like application for movie reviews and information using django restframework</h4></r>
 <h3>API functioning</h3></br></hr>
 <ol>
-  <l1>Search for movie name</li>
+  <li>Search for movie name</li>
   </ol>
