@@ -1,1 +1,1 @@
-web: gunicorn imdb.wsgis
+web: gunicorn imdb.wsgi
